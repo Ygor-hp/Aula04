@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df6dc5d2-7455-426e-b160-40877f02a436" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AULA04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arquivo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arquivo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arquivo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arquivo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arquivo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resumo da aula de hoje.py" afterDir="false" />
-    </list>
+    <list default="true" id="df6dc5d2-7455-426e-b160-40877f02a436" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +36,7 @@
     "Python.Arquivo03.executor": "Run",
     "Python.Arquivo04.executor": "Run",
     "Python.Arquivo05.executor": "Run",
+    "Python.Arquivo06.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
