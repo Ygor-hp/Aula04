@@ -1,8 +1,9 @@
 soma=0
-for x in range(5):
-    numero=float(input("Digite as nota aritimeticas:"))
-    soma=soma+numero
-media=soma/5
+numero = int(input("Digite as nota aritimeticas:"))
+for x in range(numero):
+    numero1 = float(input("Digite as nota aritimeticas:"))
+    soma=soma+numero1
+media=soma/numero
 print(media)
 
 
