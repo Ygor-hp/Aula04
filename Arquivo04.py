@@ -4,5 +4,3 @@ if n<1:
 else:
    for x in range(1,n+1,1):
         print(x,end="-")
-for m in range(n,0,-1):
-    print(m,end="_")
